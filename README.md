@@ -1,1 +1,3 @@
-# .github
+# Lynical software
+
+ - Mobile app development
